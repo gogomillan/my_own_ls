@@ -1,0 +1,5 @@
+cannot access %s
+cannot read symbolic link %s
+cannot open directory %s
+reading directory %s
+closing directory %s
